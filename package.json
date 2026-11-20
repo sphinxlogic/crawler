@@ -69,7 +69,7 @@
     "parse-github-url": "1.0.4",
     "patch-package": "8.0.1",
     "qlimit": "0.1.1",
-    "safe-stable-stringify": "2.5.0",
+    "safe-stable-stringify": "3.0.1",
     "semver": "7.8.1",
     "sha.js": "2.4.12",
     "spdx-correct": "3.2.0",
